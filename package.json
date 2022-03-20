@@ -29,6 +29,8 @@
 		"countries-and-timezones": "^3.2.3",
 		"dayjs": "^1.10.8",
 		"ics": "^2.31.0",
+		"metascraper": "^5.26.0",
+		"metascraper-url": "^5.26.0",
 		"next": "^12.1.0",
 		"next-plausible": "^3.1.5",
 		"next-pwa": "^5.4.6",
